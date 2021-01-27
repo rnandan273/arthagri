@@ -1,4 +1,4 @@
 (ns arthagri.db)
 
 (def default-db
-  {:name "re-frame"})
+  {:name "Arthagri on Amplify"})
